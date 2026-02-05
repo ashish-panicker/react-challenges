@@ -42,4 +42,75 @@ Email: john@email.com
 Location: New York
 ```
 
-![Screenshot](./screeenshots/profile.png)
+![]()<img src="./screenshots/profile.png" width="540" height="720"> 
+
+
+## Team Member Dashboard Card
+
+Design a team member dashboard UI card like those used in company intranets or project tools.
+
+Focus on:
+- Clean layout
+- Reusable components
+- CSS styling & alignment
+- Component hierarchy design
+
+***What to Build***
+
+A Team Member Card that displays:
+
+Header Section
+- Profile photo
+- Name
+- Role/Title
+- Status badge (Online / Away / Busy)
+
+Info Section
+- Short bio (2–3 lines)
+- Department
+- Location
+
+Skills Section
+- Skill tags/badges
+```text
+React  Node  UI/UX  Testing
+```
+
+Stats
+- Display 3 stats in a row:
+```text
+Projects | Tasks | Rating
+   24    |  56   | 4.8⭐
+```
+
+Footer Section
+- Email
+- Phone
+- Join date
+
+**Stylinq Requirements**
+
+Card
+- Max width: 420px
+- Rounded corners
+- Soft shadow
+- Centered on page
+
+Status Badge
+- Small pill shape
+- Color coded:
+    - Green → Online
+    - Yellow → Away
+    - Red → Busy
+
+Skills Tags
+- Rounded badges
+- Light background
+- Wrap to next line if needed
+
+Stats Row
+- Horizontal layout
+- Equal spacing
+- Divider lines between items
+
+![]()<img src="./screenshots/team.png" width="540" height="720"> 
