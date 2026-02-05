@@ -74,25 +74,26 @@ body {
 	padding: 6px 12px;
 	border-radius: 999px;
 	font-size: 14px;
-	font-weight: 600;
+	font-weight: 700;
+	text-transform:  capitalize;
 }
 
-.tag-blue {
+.tag-react {
 	background: #61dafb;
 	color: #0b3a4a;
 }
 
-.tag-gray {
+.tag-css {
 	background: #d1d5db;
 	color: #374151;
 }
 
-.tag-yellow {
+.tag-javascript {
 	background: #fde68a;
 	color: #78350f;
 }
 
-.tag-pink {
+.tag-figma {
 	background: #fbcfe8;
 	color: #831843;
 }
