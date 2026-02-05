@@ -1,3 +1,4 @@
+import './profile.css'
 
 const Profile = ({ user}) => {
 	return (

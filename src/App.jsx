@@ -9,6 +9,7 @@ const profile = {
 	city: 'New York'
 }
 
+
 function App() {
 	return (
 		<>
